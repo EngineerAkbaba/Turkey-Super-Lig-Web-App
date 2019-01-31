@@ -1,0 +1,39 @@
+F:\Lectures\THIRD YEAR-FALL SEMESTER\DATABASE MANAGEMENT SYSTEMS\MY PROJECTS\TERM PROJECT\Super_Lig\Super_Lig\bin\Super_Lig.dll.config
+F:\Lectures\THIRD YEAR-FALL SEMESTER\DATABASE MANAGEMENT SYSTEMS\MY PROJECTS\TERM PROJECT\Super_Lig\Super_Lig\bin\Super_Lig.dll
+F:\Lectures\THIRD YEAR-FALL SEMESTER\DATABASE MANAGEMENT SYSTEMS\MY PROJECTS\TERM PROJECT\Super_Lig\Super_Lig\bin\Super_Lig.pdb
+F:\Lectures\THIRD YEAR-FALL SEMESTER\DATABASE MANAGEMENT SYSTEMS\MY PROJECTS\TERM PROJECT\Super_Lig\Super_Lig\obj\Debug\Super_Lig.dll
+F:\Lectures\THIRD YEAR-FALL SEMESTER\DATABASE MANAGEMENT SYSTEMS\MY PROJECTS\TERM PROJECT\Super_Lig\Super_Lig\obj\Debug\Super_Lig.pdb
+F:\Lectures\THIRD YEAR-FALL SEMESTER\DATABASE MANAGEMENT SYSTEMS\MY PROJECTS\TERM PROJECT\Super_Lig\Super_Lig\bin\BusinessLayer.dll
+F:\Lectures\THIRD YEAR-FALL SEMESTER\DATABASE MANAGEMENT SYSTEMS\MY PROJECTS\TERM PROJECT\Super_Lig\Super_Lig\bin\DataLayer.dll
+F:\Lectures\THIRD YEAR-FALL SEMESTER\DATABASE MANAGEMENT SYSTEMS\MY PROJECTS\TERM PROJECT\Super_Lig\Super_Lig\bin\BusinessLayer.pdb
+F:\Lectures\THIRD YEAR-FALL SEMESTER\DATABASE MANAGEMENT SYSTEMS\MY PROJECTS\TERM PROJECT\Super_Lig\Super_Lig\bin\DataLayer.pdb
+F:\Lectures\THIRD YEAR-FALL SEMESTER\DATABASE MANAGEMENT SYSTEMS\MY PROJECTS\TERM PROJECT\Super_Lig\Super_Lig\obj\Debug\Super_Lig.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\Report #4\Erdem\Super_Lig\Super_Lig\bin\Super_Lig.dll
+C:\Users\pc\Desktop\Report #4\Erdem\Super_Lig\Super_Lig\bin\Super_Lig.pdb
+C:\Users\pc\Desktop\Report #4\Erdem\Super_Lig\Super_Lig\bin\BusinessLayer.dll
+C:\Users\pc\Desktop\Report #4\Erdem\Super_Lig\Super_Lig\bin\DataLayer.dll
+C:\Users\pc\Desktop\Report #4\Erdem\Super_Lig\Super_Lig\bin\BusinessLayer.pdb
+C:\Users\pc\Desktop\Report #4\Erdem\Super_Lig\Super_Lig\bin\DataLayer.pdb
+C:\Users\pc\Desktop\Report #4\Erdem\Super_Lig\Super_Lig\obj\Debug\Super_Lig.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\Report #4\Erdem\Super_Lig\Super_Lig\obj\Debug\Super_Lig.dll
+C:\Users\pc\Desktop\Report #4\Erdem\Super_Lig\Super_Lig\obj\Debug\Super_Lig.pdb
+F:\Lectures\3. Year - 1. Semester (2014-2015)\Database Management Systems\My Projects\Term Project\Super_Lig\Super_Lig\bin\Super_Lig.dll.config
+F:\Lectures\3. Year - 1. Semester (2014-2015)\Database Management Systems\My Projects\Term Project\Super_Lig\Super_Lig\bin\Super_Lig.dll
+F:\Lectures\3. Year - 1. Semester (2014-2015)\Database Management Systems\My Projects\Term Project\Super_Lig\Super_Lig\bin\Super_Lig.pdb
+F:\Lectures\3. Year - 1. Semester (2014-2015)\Database Management Systems\My Projects\Term Project\Super_Lig\Super_Lig\bin\BusinessLayer.dll
+F:\Lectures\3. Year - 1. Semester (2014-2015)\Database Management Systems\My Projects\Term Project\Super_Lig\Super_Lig\bin\DataLayer.dll
+F:\Lectures\3. Year - 1. Semester (2014-2015)\Database Management Systems\My Projects\Term Project\Super_Lig\Super_Lig\bin\BusinessLayer.pdb
+F:\Lectures\3. Year - 1. Semester (2014-2015)\Database Management Systems\My Projects\Term Project\Super_Lig\Super_Lig\bin\DataLayer.pdb
+F:\Lectures\3. Year - 1. Semester (2014-2015)\Database Management Systems\My Projects\Term Project\Super_Lig\Super_Lig\obj\Debug\Super_Lig.csprojResolveAssemblyReference.cache
+F:\Lectures\3. Year - 1. Semester (2014-2015)\Database Management Systems\My Projects\Term Project\Super_Lig\Super_Lig\obj\Debug\Super_Lig.dll
+F:\Lectures\3. Year - 1. Semester (2014-2015)\Database Management Systems\My Projects\Term Project\Super_Lig\Super_Lig\obj\Debug\Super_Lig.pdb
+E:\Graduate Lectures\3. Year - 1. Semester (2014-2015)\Database Management Systems\My Projects\Term Project\Super_Lig\Super_Lig\bin\Super_Lig.dll.config
+E:\Graduate Lectures\3. Year - 1. Semester (2014-2015)\Database Management Systems\My Projects\Term Project\Super_Lig\Super_Lig\bin\Super_Lig.dll
+E:\Graduate Lectures\3. Year - 1. Semester (2014-2015)\Database Management Systems\My Projects\Term Project\Super_Lig\Super_Lig\bin\Super_Lig.pdb
+E:\Graduate Lectures\3. Year - 1. Semester (2014-2015)\Database Management Systems\My Projects\Term Project\Super_Lig\Super_Lig\bin\BusinessLayer.dll
+E:\Graduate Lectures\3. Year - 1. Semester (2014-2015)\Database Management Systems\My Projects\Term Project\Super_Lig\Super_Lig\bin\DataLayer.dll
+E:\Graduate Lectures\3. Year - 1. Semester (2014-2015)\Database Management Systems\My Projects\Term Project\Super_Lig\Super_Lig\bin\BusinessLayer.pdb
+E:\Graduate Lectures\3. Year - 1. Semester (2014-2015)\Database Management Systems\My Projects\Term Project\Super_Lig\Super_Lig\bin\DataLayer.pdb
+E:\Graduate Lectures\3. Year - 1. Semester (2014-2015)\Database Management Systems\My Projects\Term Project\Super_Lig\Super_Lig\obj\Debug\Super_Lig.csprojResolveAssemblyReference.cache
+E:\Graduate Lectures\3. Year - 1. Semester (2014-2015)\Database Management Systems\My Projects\Term Project\Super_Lig\Super_Lig\obj\Debug\Super_Lig.dll
+E:\Graduate Lectures\3. Year - 1. Semester (2014-2015)\Database Management Systems\My Projects\Term Project\Super_Lig\Super_Lig\obj\Debug\Super_Lig.pdb

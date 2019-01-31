@@ -1,0 +1,40 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="PuanTable.master.cs" Inherits="Super_Lig.PuanTable1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title>
+        <asp:ContentPlaceHolder ID="title" runat="server">
+        </asp:ContentPlaceHolder>
+    </title>
+    <link href="Styles/main.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div class="wrapper"> 
+        <div class="menu">
+            <ul>
+                <li><a href="AddTeams.aspx">Puan Tablosuna Ekle</a></li>
+                <li><a href="DeletePuan.aspx">Puan Tablosundan Takım Sil</a></li>
+                <li><a href="UpdateTeams.aspx">Puan Tablosu Güncelle</a></li>
+                <li><a href="PuanTable.aspx">Puan Tablosu</a></li>
+            </ul>
+        </div>
+        <div class="clear">
+        </div>
+        <div class="content">
+            <asp:ContentPlaceHolder id="contentBody" runat="server">
+        
+            </asp:ContentPlaceHolder>
+        </div>
+        <div class="clear"></div>
+        <div class="footer">
+            <h2>DEFF-Dokuz Eylül Futbol Federasyonu</h2>
+        </div>
+    </div>
+    </form>
+</body>
+</html>

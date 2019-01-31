@@ -1,0 +1,337 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E7970C1F-F474-438A-B6AA-42DEB159FFC0}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Super_Lig</RootNamespace>
+    <AssemblyName>Super_Lig</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BusinessLayer">
+      <HintPath>..\BusinessLayer\bin\Debug\BusinessLayer.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AddReferee.aspx" />
+    <Content Include="AddTeams.aspx" />
+    <Content Include="AdminPage.aspx" />
+    <Content Include="AnaSayfa.aspx" />
+    <Content Include="Default.aspx" />
+    <Content Include="Delete.aspx" />
+    <Content Include="DeletePuan.aspx" />
+    <Content Include="DeleteReferee.aspx" />
+    <Content Include="DeleteTeam.aspx" />
+    <Content Include="Global.asax" />
+    <Content Include="Hakemler.aspx" />
+    <Content Include="ListReferee.aspx" />
+    <Content Include="ListStat.aspx" />
+    <Content Include="ListTeam.aspx" />
+    <Content Include="NormalUser.aspx" />
+    <Content Include="PuanTable.aspx" />
+    <Content Include="SignUpPage.aspx" />
+    <Content Include="Styles\main.css" />
+    <Content Include="Takımlar.aspx" />
+    <Content Include="UpdatePuan.aspx" />
+    <Content Include="UpdateReferee.aspx" />
+    <Content Include="UpdateTeams.aspx" />
+    <Content Include="ViewPerson.aspx" />
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddReferee.aspx.cs">
+      <DependentUpon>AddReferee.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AddReferee.aspx.designer.cs">
+      <DependentUpon>AddReferee.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AddTeams.aspx.cs">
+      <DependentUpon>AddTeams.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AddTeams.aspx.designer.cs">
+      <DependentUpon>AddTeams.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AdminPage.aspx.cs">
+      <DependentUpon>AdminPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AdminPage.aspx.designer.cs">
+      <DependentUpon>AdminPage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AnaSayfa.aspx.cs">
+      <DependentUpon>AnaSayfa.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AnaSayfa.aspx.designer.cs">
+      <DependentUpon>AnaSayfa.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Delete.aspx.cs">
+      <DependentUpon>Delete.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Delete.aspx.designer.cs">
+      <DependentUpon>Delete.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DeletePuan.aspx.cs">
+      <DependentUpon>DeletePuan.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DeletePuan.aspx.designer.cs">
+      <DependentUpon>DeletePuan.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteReferee.aspx.cs">
+      <DependentUpon>DeleteReferee.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DeleteReferee.aspx.designer.cs">
+      <DependentUpon>DeleteReferee.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteTeam.aspx.cs">
+      <DependentUpon>DeleteTeam.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DeleteTeam.aspx.designer.cs">
+      <DependentUpon>DeleteTeam.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Futbolcu.Master.cs">
+      <DependentUpon>Futbolcu.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Futbolcu.Master.designer.cs">
+      <DependentUpon>Futbolcu.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Hakemler.aspx.cs">
+      <DependentUpon>Hakemler.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hakemler.aspx.designer.cs">
+      <DependentUpon>Hakemler.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Hakemler.Master.cs">
+      <DependentUpon>Hakemler.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hakemler.Master.designer.cs">
+      <DependentUpon>Hakemler.Master</DependentUpon>
+    </Compile>
+    <Compile Include="ListReferee.aspx.cs">
+      <DependentUpon>ListReferee.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ListReferee.aspx.designer.cs">
+      <DependentUpon>ListReferee.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ListStat.aspx.cs">
+      <DependentUpon>ListStat.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ListStat.aspx.designer.cs">
+      <DependentUpon>ListStat.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ListTeam.aspx.cs">
+      <DependentUpon>ListTeam.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ListTeam.aspx.designer.cs">
+      <DependentUpon>ListTeam.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MasterPage.Master.cs">
+      <DependentUpon>MasterPage.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MasterPage.Master.designer.cs">
+      <DependentUpon>MasterPage.Master</DependentUpon>
+    </Compile>
+    <Compile Include="NormalUser.aspx.cs">
+      <DependentUpon>NormalUser.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="NormalUser.aspx.designer.cs">
+      <DependentUpon>NormalUser.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="NormalUser.Master.cs">
+      <DependentUpon>NormalUser.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="NormalUser.Master.designer.cs">
+      <DependentUpon>NormalUser.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PuanTable.aspx.cs">
+      <DependentUpon>PuanTable.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PuanTable.aspx.designer.cs">
+      <DependentUpon>PuanTable.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PuanTable.Master.cs">
+      <DependentUpon>PuanTable.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PuanTable.Master.designer.cs">
+      <DependentUpon>PuanTable.Master</DependentUpon>
+    </Compile>
+    <Compile Include="SignUpPage.aspx.cs">
+      <DependentUpon>SignUpPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SignUpPage.aspx.designer.cs">
+      <DependentUpon>SignUpPage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Statlar.Master.cs">
+      <DependentUpon>Statlar.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Statlar.Master.designer.cs">
+      <DependentUpon>Statlar.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Takımlar.aspx.cs">
+      <DependentUpon>Takımlar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Takımlar.aspx.designer.cs">
+      <DependentUpon>Takımlar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Takımlar.Master.cs">
+      <DependentUpon>Takımlar.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Takımlar.Master.designer.cs">
+      <DependentUpon>Takımlar.Master</DependentUpon>
+    </Compile>
+    <Compile Include="UpdatePuan.aspx.cs">
+      <DependentUpon>UpdatePuan.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UpdatePuan.aspx.designer.cs">
+      <DependentUpon>UpdatePuan.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateReferee.aspx.cs">
+      <DependentUpon>UpdateReferee.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UpdateReferee.aspx.designer.cs">
+      <DependentUpon>UpdateReferee.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateTeams.aspx.cs">
+      <DependentUpon>UpdateTeams.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UpdateTeams.aspx.designer.cs">
+      <DependentUpon>UpdateTeams.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ViewPerson.aspx.cs">
+      <DependentUpon>ViewPerson.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ViewPerson.aspx.designer.cs">
+      <DependentUpon>ViewPerson.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="MasterPage.Master" />
+    <Content Include="NormalUser.Master" />
+    <Content Include="Hakemler.Master" />
+    <Content Include="Takımlar.Master" />
+    <Content Include="Futbolcu.Master" />
+    <Content Include="Statlar.Master" />
+    <Content Include="PuanTable.Master" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>63281</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:50262/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

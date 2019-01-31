@@ -1,0 +1,21 @@
+F:\Lectures\THIRD YEAR-FALL SEMESTER\DATABASE MANAGEMENT SYSTEMS\MY PROJECTS\TERM PROJECT\Super_Lig\DataLayer\bin\Debug\DataLayer.dll
+F:\Lectures\THIRD YEAR-FALL SEMESTER\DATABASE MANAGEMENT SYSTEMS\MY PROJECTS\TERM PROJECT\Super_Lig\DataLayer\bin\Debug\DataLayer.pdb
+F:\Lectures\THIRD YEAR-FALL SEMESTER\DATABASE MANAGEMENT SYSTEMS\MY PROJECTS\TERM PROJECT\Super_Lig\DataLayer\obj\Debug\DataLayer.dll
+F:\Lectures\THIRD YEAR-FALL SEMESTER\DATABASE MANAGEMENT SYSTEMS\MY PROJECTS\TERM PROJECT\Super_Lig\DataLayer\obj\Debug\DataLayer.pdb
+F:\Lectures\THIRD YEAR-FALL SEMESTER\DATABASE MANAGEMENT SYSTEMS\MY PROJECTS\TERM PROJECT\Super_Lig\DataLayer\bin\Debug\BusinessLayer.dll
+F:\Lectures\THIRD YEAR-FALL SEMESTER\DATABASE MANAGEMENT SYSTEMS\MY PROJECTS\TERM PROJECT\Super_Lig\DataLayer\bin\Debug\BusinessLayer.pdb
+F:\Lectures\THIRD YEAR-FALL SEMESTER\DATABASE MANAGEMENT SYSTEMS\MY PROJECTS\TERM PROJECT\Super_Lig\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\Report #4\Erdem\Super_Lig\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\pc\Desktop\Report #4\Erdem\Super_Lig\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\pc\Desktop\Report #4\Erdem\Super_Lig\DataLayer\bin\Debug\BusinessLayer.dll
+C:\Users\pc\Desktop\Report #4\Erdem\Super_Lig\DataLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\pc\Desktop\Report #4\Erdem\Super_Lig\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\Report #4\Erdem\Super_Lig\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\pc\Desktop\Report #4\Erdem\Super_Lig\DataLayer\obj\Debug\DataLayer.pdb
+F:\Lectures\3. Year - 1. Semester (2014-2015)\Database Management Systems\My Projects\Term Project\Super_Lig\DataLayer\bin\Debug\DataLayer.dll
+F:\Lectures\3. Year - 1. Semester (2014-2015)\Database Management Systems\My Projects\Term Project\Super_Lig\DataLayer\bin\Debug\DataLayer.pdb
+F:\Lectures\3. Year - 1. Semester (2014-2015)\Database Management Systems\My Projects\Term Project\Super_Lig\DataLayer\bin\Debug\BusinessLayer.dll
+F:\Lectures\3. Year - 1. Semester (2014-2015)\Database Management Systems\My Projects\Term Project\Super_Lig\DataLayer\bin\Debug\BusinessLayer.pdb
+F:\Lectures\3. Year - 1. Semester (2014-2015)\Database Management Systems\My Projects\Term Project\Super_Lig\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+F:\Lectures\3. Year - 1. Semester (2014-2015)\Database Management Systems\My Projects\Term Project\Super_Lig\DataLayer\obj\Debug\DataLayer.dll
+F:\Lectures\3. Year - 1. Semester (2014-2015)\Database Management Systems\My Projects\Term Project\Super_Lig\DataLayer\obj\Debug\DataLayer.pdb
